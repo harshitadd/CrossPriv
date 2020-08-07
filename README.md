@@ -1,5 +1,3 @@
-## Requirements and Setup Instructions 
-
 ### Version
 ```
 This code is developed using PySyf v0.2.6. 
