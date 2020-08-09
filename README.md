@@ -14,3 +14,8 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/advanced/Fede
 
 Note - In CrossPriv.ipynb the data has been streamed via a personal gdrive link; The streaming platform ( or the data upload format ) is the user's prerogative and the flow of the code will be affected accordinngly. 
 ```
+
+### Hardware 
+```
+12GB NVIDIA Tesla K80 
+```
