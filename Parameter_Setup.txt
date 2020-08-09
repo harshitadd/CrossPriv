@@ -1,2 +1,0 @@
-Number of training samples = 429 
-Number of clients = 10 
