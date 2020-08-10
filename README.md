@@ -6,7 +6,7 @@ PySyft's most recent release (v0.2.8) is no longer compatible with Python 3.6> a
 ```
 ### Data 
 ```
-The data used in demonstrating this work can be found at: 
+The data used in demonstrating this work can be found at: https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
 ```
 ### Tutorial - For making a custom federated data loader with the DICOM Images 
 ```
