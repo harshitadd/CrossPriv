@@ -19,3 +19,8 @@ Note - In CrossPriv.ipynb the data has been streamed via a personal gdrive link;
 ```
 12GB NVIDIA Tesla K80 
 ```
+
+### Poster 
+```
+Link - https://drive.google.com/file/d/1ONieD6-Qj2j54ozeLxRMcnBa6_mSHmjF/view?usp=sharing
+```
